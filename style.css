@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400;500;600&display=swap');
+
+body {
+    background-color: rgb(189, 189, 247);
+    
+}
+
+
+#page_title {
+    color: rgb(18, 18, 255);
+    font-size: 70px;
+}
+
+#buy_for_me {
+    font-size: 24px;
+}
+
+.temp {
+    width: auto;
+    display: inline-flex;
+    font-family: 'Pixelify Sans', monospace, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.organizer {
+    background-color: aqua;
+}
