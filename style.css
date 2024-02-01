@@ -7,7 +7,7 @@ body {
 
 
 #page_title {
-    color: rgb(18, 18, 255);
+    color: rgb(9, 9, 204);
     font-size: 70px;
 }
 
@@ -15,12 +15,18 @@ body {
     font-size: 24px;
 }
 
-.temp {
+.heading {
+    margin: 3%;
     width: auto;
     display: inline-flex;
     font-family: 'Pixelify Sans', monospace, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .organizer {
-    background-color: aqua;
+    background-color: rgb(104, 193, 241);
+}
+
+.reg_text {
+    margin: 3%;
+    display: block;
 }
